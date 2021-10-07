@@ -1,9 +1,9 @@
 # EKSKUBECTL
-=============
 Interacts with kubernetes clusters calling `kubectl` commands. Integrates support for **AWS EKS**.
 
 ## Version
-KUBECTL_VERSION="1.21.2"
+KUBECTL VERSION 
+1.21.2
 
 ## Usage
 
